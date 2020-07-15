@@ -1,2 +1,3 @@
 # Project-Lookout
-A security and surveillance system based on computer vision techniques
+A security and surveillance system based on computer vision techniques. The project is based on a problem statement given in SIH Internal Hackathon. This security and surveillance project aims to use the video feed from CCTV cameras installed in apartments and offices. The license plates detected from the video feed are stored in the database to be lookupon. Its updated automatically in the database and upon exit the license plates are verified with the entry data. If there is a 
+car whose license plate is not in the database the security team can intervene then. I was involved in the image enhancement and image processing part. Other creators are Souryadeep Ray.
